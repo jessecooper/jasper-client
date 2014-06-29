@@ -20,7 +20,7 @@ class Notifier(object):
         self.q = Queue.Queue()
         self.profile = profile
         self.notifiers = [
-            self.NotificationClient(self.handleEmailNotifications, None),
+    #        self.NotificationClient(self.handleEmailNotifications, None),
         ]
 
         sched = Scheduler()
