@@ -1,7 +1,12 @@
 jasper-client
 =============
+## Fork Info
 
-Client code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.
+This fork was created to take away the emphasis on the PI platform and work with any *nix system. All changes that can be contributed back to the original project will be. 
+
+## Project Info 
+
+Client code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications. 
 
 Learn more at [jasperproject.github.io](http://jasperproject.github.io/), where we have assembly and installation instructions, as well as extensive documentation.
 
